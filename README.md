@@ -16,6 +16,10 @@ Nebular supports init configuration with Angular Schematics. This means you can 
 
 ## Installing Nebular Auth & Security
 
-Optionally, you can install nebular Auth and Securityby running `npm install --save @nebular/auth @nebular/security`
+Optionally, you can install nebular Auth and Securityby running `npm install --save @nebular/auth @nebular/security`.
+
+## Generate ThemeModule
+
+Run command `ng g module @theme/theme`
 
 
