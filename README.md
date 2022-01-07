@@ -10,5 +10,8 @@ Run `ng new starter-project` to a new Angular project
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Installing Nebular Theme
+
+Nebular supports init configuration with Angular Schematics. This means you can simply add it to your project by running `ng add @nebular/theme`, and Angular Schematics will do the rest:
 
 
